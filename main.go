@@ -1,8 +1,7 @@
 /*
  * Copyright 2017 Stephen D. Wood. All rights reserved.
- * Use of this source code is governed by Apache License,
+ * Use of this source code is governed by the MIT License,
  * Version 2.0. For details see the LICENSE file.
- *
  */
 
 package main
