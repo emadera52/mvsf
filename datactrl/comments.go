@@ -1,3 +1,9 @@
+/*
+ * Copyright 2017 Stephen D. Wood. All rights reserved.
+ * Use of this source code is governed by the MIT License.
+ * For details see the LICENSE file.
+ */
+
 package datactrl
 
 import (
